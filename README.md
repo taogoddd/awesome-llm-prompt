@@ -1,5 +1,7 @@
 # Awesome LLM Prompt Reading List
 
+This Reading List is still updating. Any stars, questions or PRs are sincerely appreciated and welcomed.
+
 With the fast developement of LLM, researchers tend to prompt LLM to utilize the world knowledge and reasoning ability of LLM by prompting it better. This reading list mainly focuses on papers of different effective prompting methods to enhance the performance of LLM on various tasks.
 
 Contributions and further discussions are greatly welcomed! Please feel free to chat with me in any ways you like, raise an issue or create a PR. My personal website is https://yitaoliu17.com. 
