@@ -1,6 +1,6 @@
 # Awesome LLM Prompt Reading List
 
-This Reading List is still updating. 
+This Reading List is still **updating**. 
 
 Any stars, questions or PRs are sincerely appreciated and welcomed.
 
