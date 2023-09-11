@@ -21,6 +21,8 @@ format:
 ```
 
 ### 2023
+- [Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models](https://arxiv.org/abs/2302.00618) 2023.02
+
 - [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) 2023.03
 
 - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651) 2023.03
@@ -31,7 +33,9 @@ format:
 
 - [Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding](https://arxiv.org/abs/2305.00633) 2023.05
 
-### 2022
-- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) 2022.10
+- [Large Language Models as Optimizers]()
 
-  
+### 2022
+- [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625) 2022.05
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) 2022.10
