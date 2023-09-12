@@ -33,9 +33,19 @@ format:
 
 - [Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding](https://arxiv.org/abs/2305.00633) 2023.05
 
-- [Large Language Models as Optimizers]()
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) 2023.05
+
+- [AutoHint: Automatic Prompt Optimization with Hint Generation](https://arxiv.org/abs/2307.07415) 2023.07
+
+- [Better Zero-Shot Reasoning with Role-Play Prompting](https://arxiv.org/abs/2308.07702)
+  
+- [Cumulative Reasoning with Large Language Models](https://arxiv.org/abs/2308.04371)
+
+- [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 
 ### 2022
+- [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+
 - [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625) 2022.05
 
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) 2022.10
